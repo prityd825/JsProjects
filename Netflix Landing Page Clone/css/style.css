@@ -1,4 +1,3 @@
-/* Global Styles */
 :root {
     --primary-color: #e50914;
     --dark-color: #141414;
@@ -112,7 +111,6 @@ img {
     margin: 0 0 2rem;
 }
 
-/* Tabs */
 .tabs {
     background: var(--dark-color);
     padding-top: 1rem;
@@ -147,14 +145,12 @@ img {
     border-bottom: var(--primary-color) 4px solid;
 }
 
-/* Tab Content */
 .tab-content {
     padding: 3rem 0;
     background: #000;
     color: #fff;
 }
 
-/* Hide initial content */
 #tab-1-content,
 #tab-2-content,
 #tab-3-content {
@@ -260,7 +256,6 @@ img {
     border-radius: 5px;
 }
 
-/* Container */
 .container {
     max-width: 70%;
     margin: auto;
@@ -268,7 +263,6 @@ img {
     padding: 0 2rem;
 }
 
-/* Text Styles */
 .text-xl {
     font-size: 2rem;
 }
@@ -291,7 +285,6 @@ img {
     color: #999;
 }
 
-/* Buttons */
 .btn {
     display: inline-block;
     background: var(--primary-color);
